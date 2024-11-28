@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+//.gitignore
+
+/node_modules
+
+.env
+
+.vscode
+.DS_Store
+.idea
+=======
 # Logs
 logs
 *.log
@@ -128,3 +139,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+>>>>>>> 63c710fe1f47fdf3d260c790c98c384c2b9496f5
